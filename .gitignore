@@ -114,3 +114,5 @@ venv.bak/
 
 # private
 .idea/
+/searchapp/*.json
+/searchapp/*.txt
