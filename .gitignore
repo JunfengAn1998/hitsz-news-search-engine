@@ -111,3 +111,6 @@ venv.bak/
 
 # vim
 *.swp
+
+# private
+.idea/
